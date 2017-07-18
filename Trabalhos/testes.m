@@ -1,0 +1,1 @@
+ yorno = input('Do you like a rewrite? (y/n)','s')
