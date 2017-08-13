@@ -39,7 +39,6 @@ i22 = s*II - A;
 FuncT = C*inv(i22)*B;
 FuncT = simplify(FuncT);
 
-
 %parte b simular obstáculo
 
 yo = .1*(1+cos(pi:2*pi/20:3*pi)); % meu pulso
